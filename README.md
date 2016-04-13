@@ -21,7 +21,7 @@ The simplest way to install this plugin is via the [Grav Package Manager (GPM)](
 
     bin/gpm install cclinker
 
-This will install the `reCAPTCHA Contact` plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/recaptchacontact`.
+This will install the `cclinker` plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/cclinker`.
 
 ### Manual Installation
 
@@ -74,5 +74,9 @@ Manually updating this plugin is pretty simple. Here is what you will need to do
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
 > Note: Any changes you have made to any of the files listed under this directory will also be removed and replaced by the new set. Any files located elsewhere (for example a YAML settings file placed in `user/config/plugins`) will remain intact.
+
+## Known issues
+* Add some comments to the source
+* Use site-language to link to the localized deed
 
 <small> Logo and Icons are [CC-BY Creative commons](https://creativecommons.org/licenses/by/4.0/)</small>
