@@ -1,4 +1,4 @@
-![Creative Commons](images/cc.logo.large.png)
+# Grav CreativeCommon-Link Plugin
 
 Simple plugin to create links to creative-common licences. 
 All you need to do is adding e.g. `[CC-BY-SA]` to your content and the plugin creates an Link (text, images, buttons) with title and link to the corresponding deed.
