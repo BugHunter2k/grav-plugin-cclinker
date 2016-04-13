@@ -1,0 +1,25 @@
+name: CC-Links
+version: 0.1.0
+description: "This plugin creates links to cc-licences vie shortcode"
+icon: creative-commons
+author:
+  name: Ingo Hollmann
+  email: bughunter2k@gmail.com
+  url: http://bughunter2k.de
+homepage: https://github.com/bughunter2k/grav-plugin-cclinks
+keywords: creative-commons, links, licence, icons
+bugs: https://github.com/bughunter2k/grav-plugin-cclinks/issues
+license: MIT
+form:
+  fields:
+    outputformat:
+      type: select
+      size: medium
+      classes: fancy
+      label: "Output Format"
+      default: 'Button'
+      options:
+        'text': "Text"
+        'button': "Button"
+        'badge': "Badge"
+        'icons': "Icons"
