@@ -66,7 +66,7 @@ class CclinkerPlugin extends Plugin
 			if (strlen($v) == 1) $v .= ".0";
 		}
                 $locator = GravTrait::getGrav()['locator'];
-                $path = $locator->findResource('plugin://cclinker/images/', false)."/";
+                $path = "/".$locator->findResource('plugin://cclinker/images/', false)."/";
                 switch($this->config->get('plugins.cclinker.outputformat')) {
                     case "text": 
                             $linktext = $this->licenses[$l][1];
