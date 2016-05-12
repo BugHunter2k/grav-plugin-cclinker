@@ -1,6 +1,6 @@
 name: CC-Linker
 version: 0.5.2
-description: "This plugin creates links to cc-licences vie shortcode"
+description: "This plugin creates links/button/badge for cc-licences using shortcode syntax eg: ([CC by-sa])"
 icon: creative-commons
 author:
   name: Ingo Hollmann
