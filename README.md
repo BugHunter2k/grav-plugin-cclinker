@@ -1,5 +1,7 @@
 # Grav CreativeCommon-Link Plugin
 
+[![Join the chat at https://gitter.im/BugHunter2k/grav-plugin-cclinker](https://badges.gitter.im/BugHunter2k/grav-plugin-cclinker.svg)](https://gitter.im/BugHunter2k/grav-plugin-cclinker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Simple plugin to create links to creative-common licences. 
 All you need to do is adding e.g. `[CC-BY-SA]` to your content and the plugin creates an Link (text, images, buttons) with title and link to the corresponding deed.
 
