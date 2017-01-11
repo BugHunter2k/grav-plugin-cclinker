@@ -47,7 +47,7 @@ Options in `cclinker.yaml`
 If you want an cc-link, simply put `[CC-BY]` in your markdown.
 
 Accepted Licences are :
-| `CC0` | `CC BY-SA` | `CC BY-ND` | `CC BY-NC-SA` | `CC BY-SA` | `CC BY-NC` | `CC BY-NC-ND` | `publicdomain` |
+| `CC0` | `CC BY-SA` | `CC BY-ND` | `CC BY-NC-SA` | `CC BY-SA` | `CC BY-NC` | `CC BY-NC-ND` | 
 
 Linking to a particular licence-version is possible by adding e.g `|3.0` to the code.
 
